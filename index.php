@@ -7,23 +7,23 @@
 </head>
 <body>
   <h1>PHP</h1>
-  <h3><a href="ejercicio1.php">Ejercicio 1: echo, concatenar (.) y form => $_POST[''] (oculta los datos) y $_GET[''] (muestra los datos en la url)</a></h2>
-  <h3><a href="ejercicio2.php">Ejercicio 2: tipo de datos (string, integer, double, boolean, arrayTradicional, arrayAsociativo)</a></h3>
-  <h3><a href="ejercicio3.php">Ejercicio 3: variables ($) echo$ y constantes => define("nombre","valor") echo nombre</a></h3>
-  <h3><a href="ejercicio4.php">Ejercicio 4: operadores aritmeticos (+ - / *)</a></h3>
-  <h3><a href="ejercicio5.php">Ejercicio 5: operadores relacionales (!= === == >= <= > <)</a></h3>
-  <h3><a href="ejercicio6.php">Ejercicio 6: operadores logicos (&& ||)</a></h3>
-  <h3><a href="ejercicio7.php">Ejercicio 7: if anidado y switch(){}</a></h3>
-  <h3><a href="ejercicio8.php">Ejercicio 8: ciclo for($i = 0; $i < a ; $i++){}, do{} while(condicion) y while</a></h3>
-  <h3><a href="ejercicio9.php">Ejercicio 9: function(){} => function nombreDeLaFunction(){} y funciones propias de PHP (matematicas, date, string, array)</a></h3>
+  <h3><a href="ejercicio01.php">Ejercicio 1: echo, concatenar (.) y form => $_POST[''] (oculta los datos) y $_GET[''] (muestra los datos en la url)</a></h2>
+  <h3><a href="ejercicio02.php">Ejercicio 2: tipo de datos (string, integer, double, boolean, arrayTradicional, arrayAsociativo)</a></h3>
+  <h3><a href="ejercicio03.php">Ejercicio 3: variables ($) echo$ y constantes => define("nombre","valor") echo nombre</a></h3>
+  <h3><a href="ejercicio04.php">Ejercicio 4: operadores aritmeticos (+ - / *)</a></h3>
+  <h3><a href="ejercicio05.php">Ejercicio 5: operadores relacionales (!= === == >= <= > <)</a></h3>
+  <h3><a href="ejercicio06.php">Ejercicio 6: operadores logicos (&& ||)</a></h3>
+  <h3><a href="ejercicio07.php">Ejercicio 7: if anidado y switch(){}</a></h3>
+  <h3><a href="ejercicio08.php">Ejercicio 8: ciclo for($i = 0; $i < a ; $i++){}, do{} while(condicion) y while</a></h3>
+  <h3><a href="ejercicio09.php">Ejercicio 9: function(){} => function nombreDeLaFunction(){} y funciones propias de PHP (matematicas, date, string, array)</a></h3>
   <h3><a href="ejercicio10.php">Ejercicio 10: class (un molde para crear objetos), propiedades (public, private, protected), metodos (function), instancia (creacion del objeto), llamado del metodo, impresion de propiedades </a></h3>
   <h3><a href="ejercicio11.php">Ejercicio 11: class (herencia) => crear una class a partir de otra class => class trabajador extends persona {}. Trabajador es una clase hija de la clase persona</a></h3>
   <h3><a href="ejercicio12.php">Ejercicio 12: class (constructor) => es algo que se construye al inicio automaticamente, no se llama como a cada metodo segun se lo necesite</a></h3>
   <h3><a href="ejercicio13.php">Ejercicio 13: metodos estaticos => son como clases, pero pueden llamarse sin tener una instancia (la creacion del objeto)</a></h3>
   <h1>MySQL</h1>
-  <h3><a href="mysql1.php">Ejercicio 1: conexion de base de datos. PHP con MySQL</a></h3>
-  <h3><a href="mysql2.php">Ejercicio 2: (POST) insertar datos en una tabla. "insert into dbname_tabla() values ()"</a></h3>
-  <h3><a href="mysql3.php">Ejercicio 3: (GET) leer todos los datos de una tabla. "select from dbname_tabla"</a></h3>
+  <h3><a href="mysql01.php">Ejercicio 1: conexion de base de datos. PHP con MySQL</a></h3>
+  <h3><a href="mysql02.php">Ejercicio 2: (POST) insertar datos en una tabla. "insert into dbname_tabla() values ()"</a></h3>
+  <h3><a href="mysql03.php">Ejercicio 3: (GET) leer todos los datos de una tabla. "select from dbname_tabla"</a></h3>
   <h1>PHP</h1>
   <h3><a href="ejercicio14.php">Ejercicio 14: variables de session, crear y destruir => session_start() y session_destroy();</a></h3>
   <h3><a href="ejercicio15.php">Ejercicio 15: form - recepcion de datos - valores del input text => $_POST['text'] o $_REQUEST['text']</a></h3>
